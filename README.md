@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**sabina-045/sabina-045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Сабина и я Python разработчик.
+Очень люблю четко выстроенный, простой и аккуратный код.
+В данный момент работаю над созданием простого интернет-магазина на Django.
+Очень хочу писать в open source проекты, для начала планирую заниматься исправлением документации. Если вы знаете простой open source, пожалуйста, дайте мне знать, буду очень рада.
 
-Here are some ideas to get you started:
+Пишите на почту: sabina_045@mail.ru
+или в телеграм: @Sabina_045
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there!👋
+
+My name is Sabina and I'm a Python developer. I really like well-structured, clean and neatly made code. Right now, I'm working on a simple online shop using Django. I would like to be a part of open-source projects, so I plan to start by fixing the documentation. If you can advice for such a simple project, please let me know.
+
+You can contact me via email: sabina_045@mail.ru
+or Telegram: @Sabina_045.
